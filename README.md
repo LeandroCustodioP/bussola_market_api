@@ -16,3 +16,7 @@ Este projeto é construído com FastAPI, SQLAlchemy e Pydantic, seguindo a arqui
 2. Instale as dependências com `pip install -r requirements.txt`.
 3. Configure `DATABASE_URL` em `.env` ou use o modelo `.env.example`.
 4. Execute a aplicação com `uvicorn src.main:app --reload`.
+
+## Documentação
+
+- **Database:** [docs/database.md](docs/database.md) — descrição dos modelos, relacionamentos, constraints e instruções de inicialização do banco de dados.
