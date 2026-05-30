@@ -7,6 +7,7 @@ A **Bússola Market API** é o sistema central (backend) de uma mercearia modern
 - **Linguagem:** Python 3.10+
 - **Framework:** FastAPI
 - **Banco de Dados:** SQLite + SQLAlchemy
+- **Seed:** Suporte para povoar o banco de dados de desenvolvimento com dados iniciais automatizados
 
 ## 3. Mapa de Navegação (Para Desenvolvedores e IA)
 Para manter o projeto organizado e a fonte de verdade única, os detalhes específicos estão divididos nos seguintes arquivos:
